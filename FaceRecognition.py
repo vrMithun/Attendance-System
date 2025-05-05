@@ -1,4 +1,4 @@
-import cv2 #Import OpenCV, a library for computer vision tasks like face detection and webcam access.
+import cv2 #Imports OpenCV, a library for computer vision tasks like face detection and webcam access.
 from deepface import DeepFace # Imports DeepFace, a Python library that provides pre-built facial recognition functions.
 import pandas as pd #Imports pandas, used for handling tabular data (like the attendance file).
 from datetime import datetime #Lets you work with current date and time, used for timestamping attendance.
